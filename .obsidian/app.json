@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "legacyEditor": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-US"
+  ]
+}

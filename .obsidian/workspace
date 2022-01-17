@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "b647a4f820397717",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a17888c1806e919",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c4b99dfc98f1f532",
+    "type": "split",
+    "children": [
+      {
+        "id": "4931b0e14273c6b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cedac66f090c1e8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9117a46c767c3252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 182
+  },
+  "right": {
+    "id": "815cb6eb5fd99677",
+    "type": "split",
+    "children": [
+      {
+        "id": "a96ef3de001a23e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74386e9cfd58b070",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "360d5a16a3970598",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9a17888c1806e919",
+  "lastOpenFiles": [
+    "LICENSE.md",
+    "Programming/C/1. Introduction.md",
+    "Discrete Maths/10. Graphs.md",
+    "Discrete Maths/11.     Trees.md",
+    "Graph_Trees.md",
+    "Discrete Maths/12. Finite State Machines.md",
+    "Programming/C/1.1 Index.md",
+    "Programming/C/2. Some Acotations.md",
+    "Programming/C/3. Introduction to C.md"
+  ]
+}
