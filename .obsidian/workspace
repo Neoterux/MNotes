@@ -7,8 +7,12 @@
         "id": "9a17888c1806e919",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/C/7.1 System Calls.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182
+    "width": 275
   },
   "right": {
     "id": "815cb6eb5fd99677",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/C/7.1 System Calls.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +101,15 @@
   },
   "active": "9a17888c1806e919",
   "lastOpenFiles": [
-    "LICENSE.md",
-    "Programming/C/1. Introduction.md",
+    "Programming/C/7.1 System Calls.md",
+    "Programming/C/7. IO.md",
+    "Programming/C/7.2 User Interaction.md",
+    "Programming/C/6. C Objects.md",
+    "Programming/C/5.2 Argument handling.md",
+    "Programming/C/5.1 Math.md",
+    "Discrete Maths/10.1 Paths and cycles.md",
     "Discrete Maths/10. Graphs.md",
-    "Discrete Maths/11.     Trees.md",
-    "Graph_Trees.md",
-    "Discrete Maths/12. Finite State Machines.md",
-    "Programming/C/1.1 Index.md",
-    "Programming/C/2. Some Acotations.md",
-    "Programming/C/3. Introduction to C.md"
+    "Additional subjects/Statistics/Tables with classes.md",
+    "Additional subjects/Statistics/Notes.md"
   ]
 }

@@ -5,5 +5,12 @@
   "spellcheckLanguages": [
     "en-US",
     "es-US"
-  ]
+  ],
+  "attachmentFolderPath": "Programming/C/res",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
