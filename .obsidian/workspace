@@ -69,7 +69,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Programming/C/7.1 System Calls.md",
+=======
+                "file": "temp/test.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,9 +94,16 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "4897cb074e6a5732",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,6 +112,7 @@
   },
   "active": "9a17888c1806e919",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Programming/C/7.1 System Calls.md",
     "Programming/C/7. IO.md",
     "Programming/C/7.2 User Interaction.md",
@@ -111,5 +123,17 @@
     "Discrete Maths/10. Graphs.md",
     "Additional subjects/Statistics/Tables with classes.md",
     "Additional subjects/Statistics/Notes.md"
+=======
+    "temp/test.md",
+    "Discrete Maths/11.     Trees.md",
+    "Discrete Maths/10. Graphs.md",
+    "temp/res/basic.hs.md",
+    "LICENSE.md",
+    "Programming/C/1. Introduction.md",
+    "Graph_Trees.md",
+    "Discrete Maths/12. Finite State Machines.md",
+    "Programming/C/1.1 Index.md",
+    "Programming/C/2. Some Acotations.md"
+>>>>>>> Stashed changes
   ]
 }
